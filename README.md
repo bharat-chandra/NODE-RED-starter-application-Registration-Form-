@@ -1,6 +1,13 @@
 Node-RED IBM Cloud Starter Application
 ====================================
 
+App URL
+https://node-red-caikm.eu-gb.mybluemix.net
+Source
+https://eu-gb.git.cloud.ibm.com/bharat.chandra200/NodeREDCAIKM
+app UI : https://node-red-caikm.eu-gb.mybluemix.net/ui
+
+
 
 ### Node-RED on IBM Cloud
 
