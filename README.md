@@ -6,8 +6,7 @@ https://node-red-caikm.eu-gb.mybluemix.net
 ### Source
 https://eu-gb.git.cloud.ibm.com/bharat.chandra200/NodeREDCAIKM
 ### app UI : https://node-red-caikm.eu-gb.mybluemix.net/ui
-
-
+![application](Screenshot%20(551).png)
 
 ### Node-RED on IBM Cloud
 
